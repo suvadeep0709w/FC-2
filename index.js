@@ -1,1 +1,2 @@
 console.log("First line");
+console.log("Conflict lines");
